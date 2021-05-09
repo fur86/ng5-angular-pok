@@ -45,7 +45,7 @@
     "typescript": "~3.5.1",
     "canonical-path": "1.0.0",
     "tslint": "^5.17.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "jasmine-core": "~3.4.0",
     "karma": "^4.1.0",
     "karma-chrome-launcher": "^2.2.0",
